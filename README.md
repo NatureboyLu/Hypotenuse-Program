@@ -1,2 +1,2 @@
 # Hypotenuse-Program
-A program that helps you find the hypotenuse of an angle
+A user input program that helps the user find the hypotenuse of an angle
